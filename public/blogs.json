@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Cover": "https://i.ibb.co/XxG6bvc/high-angle-desktop-with-laptop-copy-space.jpg",
+        "Title": "Whispers of the Nebula",
+        "Author": "Stella Celestia",
+        "Author_img": "https://i.ibb.co/fCX3qBZ/1-download.jpg",
+        "Posted_date": "2024-02-04",
+        "Reading_time": "25",
+        "Hashtags": ["#SpaceSaga", "#FantasyFiction", "#CelestialDreams"]
+      },
+      {
+        "Id": 2,
+        "Cover": "https://i.ibb.co/gFPf9TK/toy-bricks-table-with-word-blog.jpg",
+        "Title": "Chronicles of Technomancy",
+        "Author": "Orion Byte",
+        "Author_img": "https://i.ibb.co/8btcYNt/2-download.jpg",
+        "Posted_date": "2024-02-04",
+        "Reading_time": "30",
+        "Hashtags": ["#SciFi", "#TechWizardry", "#DigitalEpic"]
+      },
+      {
+        "Id": 3,
+        "Cover": "https://i.ibb.co/TP9vW6z/3-cover.jpg",
+        "Title": "Serenade of Shadows",
+        "Author": "Luna Nocturne",
+        "Author_img": "https://i.ibb.co/n1y9BCK/3-images.jpg",
+        "Posted_date": "2024-02-04",
+        "Reading_time": "22",
+        "Hashtags": ["#MysteryTales", "#NocturnalWhispers", "#MoonlitProse"]
+      },
+      {
+        "Id": 4,
+        "Cover": "https://i.ibb.co/jLNGSzr/4-cover.jpg",
+        "Title": "Ephemeral Echoes",
+        "Author": "Aether Muse",
+        "Author_img": "https://i.ibb.co/N3CBq2Y/4-download.jpg",
+        "Posted_date": "2024-02-04",
+        "Reading_time": "18",
+        "Hashtags": ["#FantasyVerse", "#EthericJourney", "#TimelessTales"]
+      }
+]
